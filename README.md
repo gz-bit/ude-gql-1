@@ -1,3 +1,6 @@
 # ude-gql-1
-Udemy - GraphQL for beginners with JaveScript - James Moore
-[Course](https://www.udemy.com/course/graphql-for-beginners-with-javascript/learn/lecture/11835844?start=0#overview)
+Cursera - University of Michigan - PostgreSQL for Everybody Specialization
+
+Charles Russell Severance
+
+[Course](https://www.coursera.org/specializations/postgresql-for-everybody)
